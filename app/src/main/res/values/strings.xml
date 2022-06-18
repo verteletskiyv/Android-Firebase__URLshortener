@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">URLshortener_android</string>
+    <string name="title">Your Bookmarks</string>
+    <string name="btn_init">Add</string>
+    <string name="btn_wrong_short_url">Wrong short URL</string>
+    <string name="btn_wrong_long_url">Wrong URL</string>
+    <string name="btn_already_exists">Try another short URL</string>
+    <string name="long_url">Full URL</string>
+    <string name="short_url">Short URL</string>
+    <string name="text_short">Bookmark: </string>
+</resources>
